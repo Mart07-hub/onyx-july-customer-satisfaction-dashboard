@@ -1,10 +1,10 @@
-# 📊 Customer Satisfaction Dashboard – Onyx July 2025 Challenge
+#  Customer Satisfaction Dashboard – Onyx July 2025 Challenge
 
 This Power BI dashboard was built for the **Onyx Data + DataDNA July 2025 Challenge**, analyzing drivers of customer satisfaction and loyalty for **OmniRetail**.
 
 ---
 
-## 🔍 Dataset Overview
+##  Dataset Overview
 
 The dataset includes information such as:
 - Satisfaction Scores (1–10)
@@ -16,7 +16,7 @@ The dataset includes information such as:
 
 ---
 
-## 💡 Key Questions Explored
+##  Key Questions Explored
 
 - What are the top factors driving customer satisfaction?
 - Do customers who contact support report lower satisfaction?
@@ -26,7 +26,7 @@ The dataset includes information such as:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI Desktop**
 - **DAX** for custom measures (Engagement Rate, Loyalty Score)
@@ -34,7 +34,7 @@ The dataset includes information such as:
 
 ---
 
-## 🧭 How to Explore
+##  How to Explore
 
 1. Download the `.pbix` file from this repo  
 2. Open in **Power BI Desktop (free)**
@@ -42,7 +42,7 @@ The dataset includes information such as:
 
 ---
 
-## 📥 Download Dashboard
+##  Download Dashboard
 
 🔗 [Click here to download the Power BI file](https://github.com/Mart07-hub/onyx-july-customer-satisfaction-dashboard/blob/main/onyx%20july.pbix)
 
@@ -50,7 +50,7 @@ The dataset includes information such as:
 
 ---
 
-## 📢 Author
+##  Author
 
 **Martha Afful**
 📍 Data Analyst | Storyteller with Data | Power BI Enthusiast  
